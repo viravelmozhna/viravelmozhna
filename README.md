@@ -7,14 +7,14 @@ What I care about:
 - Clean, reusable components and code that's easy to change
 - Solid test coverage, so shipping fast doesn't mean breaking things
 - Using AI to speed up the work while I own the architecture, the code review, and the final quality
-- 
+
 ### 🔧 Tech I work with
  
 - **Frontend:** TypeScript · React 18/19 · Next.js · Vue.js · Angular · Sass/Less · Tailwind CSS
 - **Backend & data:** Node.js · Express · MongoDB · Firebase · Socket.IO · REST APIs
 - **Testing & tooling:** Vitest · Cypress · Vite · ESLint · Docker · CI/CD
 - **AI-assisted development:** Cursor · GitHub Copilot · Amazon Q · Kiro
-- 
+
 ### 📫 Get in touch
  
 🔗 Live demos and project write-ups are on my [portfolio](https://viravelmozhna.dev/#projects).
