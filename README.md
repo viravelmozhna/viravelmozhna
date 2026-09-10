@@ -2,7 +2,7 @@
  
 I'm a **software developer** with a frontend core: 4+ years of building web applications with **React** and **TypeScript**. These days I work across the whole stack, with AI tools as my pair programmer, to get from idea to working product faster.
  
-What I care about:
+### 💡 What I care about
  
 - Clean, reusable components and code that's easy to change
 - Solid test coverage, so shipping fast doesn't mean breaking things
