@@ -21,4 +21,4 @@ I'm a **software developer** with a frontend core: 4+ years of building web appl
  
 [LinkedIn](https://www.linkedin.com/in/viravelmozhna/) · [Email](mailto:mail@viravelmozhna.dev)
  
-🌍 English (B2) · German (B1) · Ukrainian (native)
+🌍 English (C1) · German (B1) · Ukrainian (native)
